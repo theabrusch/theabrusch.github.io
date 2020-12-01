@@ -1,4 +1,4 @@
-@article{hansen2020deployment,
+@article{TEST,
 	title={Self-Supervised Policy Adaptation during Deployment},
 	author={Nicklas Hansen and Yu Sun and Pieter Abbeel and Alexei A. Efros and Lerrel Pinto and Xiaolong Wang},
 	year={2020},
