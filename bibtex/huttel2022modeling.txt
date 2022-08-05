@@ -1,0 +1,5 @@
+@ARTICLE{huttel2022modeling,  
+    author={Hüttel, Frederik Boe and Peled, Inon and Rodrigues, Filipe and Pereira, Francisco C.},  
+    journal={IEEE Transactions on Intelligent Transportation Systems},   
+    title={Modeling Censored Mobility Demand Through Censored Quantile Regression Neural Networks},   
+    year={2022},  volume={},  number={},  pages={1-13},  doi={10.1109/TITS.2022.3190194}}

@@ -1,0 +1,16 @@
+@article{huttel2021deep,
+  author    = {Frederik Boe H{\"{u}}ttel and
+               Inon Peled and
+               Filipe Rodrigues and
+               Francisco C. Pereira},
+  title     = {Deep Spatio-Temporal Forecasting of Electrical Vehicle Charging Demand},
+  journal   = {CoRR},
+  volume    = {abs/2106.10940},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2106.10940},
+  eprinttype = {arXiv},
+  eprint    = {2106.10940},
+  timestamp = {Tue, 29 Jun 2021 16:55:04 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2106-10940.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

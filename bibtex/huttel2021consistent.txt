@@ -1,0 +1,11 @@
+@inproceedings{huttel2021consisten,
+title = "Consistent and accurate estimation of stellar parameters from HARPS-N Spectroscopy using Deep Learning",
+abstract = "Consistent and accurate estimation of stellar parameters is of great importance for information retrieval in astrophysical research. The parametersspan a wide range from effective temperature to rotational velocity. We propose to estimate the stellar parameters directly from spectral signals coming from the HARPS-N spectrograph pipeline before any spectrum-processing steps are applied to extract the 1D spectrum. We use residual networksand an attention-based model to estimate the stellar parameters. The models estimate both mean and uncertainty of the stellar parameters throughthe parameters of a Gaussian distribution. The estimated distributions create a basis to generate data-driven Gaussian confidence intervals for theestimated stellar parameters. We show that residual networks and attention-based models can estimate the stellar parameters with high accuracy forlow Signal-to-noise ratio (SNR) compared to previous methods. With an observation of the Sun from the HARPS-N spectrograph, we show that the models can estimate stellar parameters from real observational data. ",
+author = "H{\"u}ttel, {Frederik Boe} and Clemmensen, {Line Katrine Harder}",
+year = "2021",
+doi = "10.7557/18.5693",
+language = "English",
+booktitle = "Proceedings of Northern Lights Deep Learning Workshop 2021",
+note = "Northern Lights Deep Learning Workshop 2021<br/>, NLDL 2021 ; Conference date: 18-01-2021 Through 20-01-2021",
+url = "http://www.nldl.org",
+}
